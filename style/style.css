@@ -1,0 +1,32 @@
+    h1 {
+        text-align: center;
+        color: blue;
+    }
+    
+    p {
+        color: red;
+        font-size: 26px;
+        text-align: justify;
+        background-color: cadetblue;
+        font-family: monospace;
+        font-weight: 100;
+        background-image: url(../pictures/state\ of\ sao\ paulo.jpg);
+    }
+    /* Utilizar ''id="x" para denominar uma ID e especificar a formatação pelo CSS */
+    
+    #saopaulo {
+        width: 200px;
+        height: 250px;
+        border-radius: 10px;
+        display: block;
+        margin: auto;
+    }
+    /* Utilizar #x para escolher a ID para formatação. */
+    
+    #itaquera {
+        width: auto;
+        height: auto;
+        border-radius: 10px;
+        display: block;
+        margin: auto;
+    }
